@@ -1,4 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/oikos_cash.svg?label=oikos_cash&style=social)](https://twitter.com/oikos_cash)
 
 > Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
